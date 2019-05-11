@@ -1,0 +1,14 @@
+.ListItem {
+  padding: 8px 16px;
+  transition: background-color 0.2s, color 0.2s;
+  display: block;
+  color: #000;
+}
+
+.ListItem:hover,
+.ListItemActive {
+  text-decoration: none;
+  background-color: #017bff;
+  cursor: pointer;
+  color: #fff;
+}

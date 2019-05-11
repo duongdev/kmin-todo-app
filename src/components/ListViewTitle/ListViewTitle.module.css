@@ -1,0 +1,19 @@
+.ListViewTitle {
+  padding: 12px 16px;
+  background-color: #017bff;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  min-height: 64px;
+}
+.ListViewTitleName {
+  font-size: 1.3rem;
+  cursor: text;
+}
+
+.ListNameInput {
+  color: #fff;
+  font-size: 1.3rem;
+  background: transparent;
+  border: none;
+}
